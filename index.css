@@ -46,9 +46,11 @@
     }
 }
   
-
+footer {
+ margin-top: 200px;
+ {
+ 
   .texto_footer {
-    margin-top: 200px;
     text-align: center;
     color : #6c0b9c;
     font-size: 15px;
